@@ -1,0 +1,1 @@
+A small python application which shows cricket live ball by ball score as mac notification.
