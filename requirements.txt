@@ -1,0 +1,4 @@
+argparse==1.2.1
+pync==1.4
+requests==2.3.0
+BeautifulSoup==3.2.0
